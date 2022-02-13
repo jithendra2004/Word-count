@@ -18,6 +18,7 @@ Iterate the list and increment the count
 ### Step 6: 
 Iterate the list and increment the count
 ## PROGRAM:
+~~~
 To write a program for getting the word count from a file.
 Developed by: V.A.JITHENDRA
 RegisterNumber: 21005049
@@ -30,9 +31,11 @@ def wordcount():
             cnt += 1
     print("The number of words in the given file is:",cnt)
 wordcount()
+~~~
 ### OUTPUT:
 ![output](./word.png)
 
 
 ## RESULT:
+
 Thus the program is written to find the word count from a text.
