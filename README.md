@@ -33,7 +33,7 @@ def wordcount():
 wordcount()
 ~~~
 ### OUTPUT:
-![output](./word.png)
+![output](https://github.com/jithendra2004/Word-count/blob/main/word.PNG?raw=true)
 
 
 ## RESULT:
